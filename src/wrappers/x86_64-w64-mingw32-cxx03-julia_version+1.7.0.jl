@@ -8,7 +8,7 @@ function __init__()
     JLLWrappers.@init_library_product(
         libclangex,
         "bin\\libclangex.dll",
-        RTLD_LAZY | RTLD_DEEPBIND,
+        nothing,
     )
 
     JLLWrappers.@generate_init_footer()
