@@ -1,4 +1,4 @@
-# `libclangex_jll.jl` (v0.1.6+0)
+# `libclangex_jll.jl` (v0.1.6+1)
 
 [![deps](https://juliahub.com/docs/libclangex_jll/deps.svg)](https://juliahub.com/ui/Packages/libclangex_jll/6ndeX?page=2)
 

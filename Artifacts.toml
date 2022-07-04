@@ -6,7 +6,7 @@ os = "macos"
 
     [[libclangex.download]]
     sha256 = "f72cda7bfbf359cc37db39f12aa79f581083c5898b81f6dd9c336c49b4611054"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -17,7 +17,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "2a151458f3bfbb4612800bf7e7b3a744cdbc52407087b160f2cc0069678f274e"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -28,7 +28,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "af4c602001fad7bd6de4d9e0f8f914fcd4a0f178862dec08f56819fb64652991"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -39,7 +39,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "d07496dd092a59fa7fc9c5196d44853943eb99d2b2657f75fa98e230bf664c84"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -50,7 +50,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "c017b8060120bf98fc6ce8c7cefa80f8eb025ecf83876bd843fbcb721d1ad59a"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -62,7 +62,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "2e466d54d4814d6d0d44611abbb1aa826d6c5528a6b8f6472157829f6c5f00ea"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -74,7 +74,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "b23dae299977f7409118e4a582fbec1d88d594d864f9ff52478c52582578d119"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -86,7 +86,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "7c2485cf72b48ea144d779001485332a03caf13aaf42ec9196fb16004f99c799"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -98,7 +98,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "9d5cddcd48ae808ed1161a8618313a42b57b2c63f86270ef436ea61b917d6914"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -110,7 +110,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "4c7bffa9398940d12cbccbc00d173cb4010a55126676091fa2e88261dee9e245"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -122,7 +122,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "d299eb2172f1fc37378ad6450a57cb2a8cb0c33f19e5433c87682fbb7a864712"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -134,7 +134,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "96a4bca890d746c299794737e57736e58f031957c24a8fe76df5c77f1d07013d"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -146,7 +146,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "fe06674d4f632bbde8f754472f4711020cc83f1cb515694eccf8513aab9a2727"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -157,7 +157,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "c8ed065f83c4ff23d5bb0db91949455178e6e43c852c6ee23c1a2ec9e4c4207d"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -168,7 +168,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "4d872ad0038efa2794f3080d85bddb2fa1f39ce15d18a3335d9abe6a2d7d3993"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -179,7 +179,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "c37d426c055371961f6502a9710d467dc728a97d7198d8d40f6941a5fe065fff"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.i686-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.i686-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -190,7 +190,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "add828ddffcdb203a06bf70c71a673c01de2aded9abb32085bef88e58b0c6ea4"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.i686-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.i686-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -200,7 +200,7 @@ os = "windows"
 
     [[libclangex.download]]
     sha256 = "9b26f0e4fc3c6a06ef341d67a30c3a45fafe2a85d58fb67272810cd39007eb5b"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.i686-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.i686-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -210,7 +210,7 @@ os = "windows"
 
     [[libclangex.download]]
     sha256 = "ef7c0b928277ac44474d5dcd715124434e4551f4cd0f893be5f54deda1eb3293"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.i686-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.i686-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -221,7 +221,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "57c9c531ba67d1f1702cd25a618c34fc60ea796bb55e66316e74a43e1669674e"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -232,7 +232,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "287e9d513caf559cdc7efc0dbc79d66b0971d14bc64dd43ac96fcab2be8fc8eb"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 git-tree-sha1 = "cba14151e4fa4b210c9b4473473fb3f2f1e1a98a"
@@ -241,7 +241,7 @@ os = "macos"
 
     [[libclangex.download]]
     sha256 = "24c3e4fa7d8c2bba6ea4da8e044459edfb63268334af3a66b6c469970232725b"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -252,7 +252,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "945857b61f7399e1ed8b40da465e73ee2d1c93ad24c0c760ae6fb13c51221d65"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -263,7 +263,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "30474196e3e85c9288b61f4e51779fb12d48485b8d03d8e32ec993d2fa7fd48e"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -274,7 +274,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "95ee79808bed2fca7c8d123d632b153823ab3611359fb67f32c16c36d8187ad8"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -285,7 +285,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "90ca9c539f73df14c22d8dbd9b01a9e7b407425fe38b95bafb767d6ec2cde919"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 git-tree-sha1 = "ca8afa58a07d1b87238c60e8c0a0a2c2c3b09562"
@@ -294,7 +294,7 @@ os = "freebsd"
 
     [[libclangex.download]]
     sha256 = "146b6e11091f7ecfc8869a2a4d8f926253cfe70869d9510e1d920ec13bab42a0"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -304,7 +304,7 @@ os = "windows"
 
     [[libclangex.download]]
     sha256 = "098675cfa05e1655964cd85bc2f1e5df8a57cce7e98af97eea164d65655d9b2d"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -314,7 +314,7 @@ os = "windows"
 
     [[libclangex.download]]
     sha256 = "1e08fe96416bc394388dd808e82ed288ba404ecced2f1c52f6f9f44e3eb9c7b2"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
 [[libclangex]]
 arch = "aarch64"
 git-tree-sha1 = "e08178f1049fb1d0e377c8b517cfc2b53cb8e33f"
@@ -323,7 +323,7 @@ os = "macos"
 
     [[libclangex.download]]
     sha256 = "8a86416bc7ea899b85474a84b7877b0cb32fa6ff12b27c6a4e43968edb978262"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.aarch64-apple-darwin-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.aarch64-apple-darwin-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -334,7 +334,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "5014d36d47c3274f7663872b1aa2889ab20ea9c4478018ecf93a9a0217fe7ac4"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.aarch64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.aarch64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -345,7 +345,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "63ef7d58c33f84e5589246f83f01e367d75be6a3e7cd5837806386465737eb3d"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.aarch64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.aarch64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -356,7 +356,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "7d5ede2c941b9844bed04f6cd91012a25a60ea7b58b7d8d414640051562093fe"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.aarch64-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.aarch64-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -367,7 +367,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "fa1baadf4f3f4aab85e8fe4c7f89e2761b0af79a356a0dec6943964d4335feab"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.aarch64-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.aarch64-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -379,7 +379,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "28b2ae6b3c380f32bb5a2c5e16b1ee9ecd96478da0820d0eb6d857a518c200f3"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -391,7 +391,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "c547f2b6d56721c5eadc6a5e96791a51f0015b664288d0bd1836f86fd25f0b1e"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -403,7 +403,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "07d521b474d9964db65cd86368d654e9588f9c194431eda3bf0796aebcc78472"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv6l-linux-musleabihf-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv6l-linux-musleabihf-cxx03-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -415,7 +415,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "99e38b133a051517d2248aed503a0806659f9741294a5a644587decad7a39e89"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv6l-linux-musleabihf-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv6l-linux-musleabihf-cxx11-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -427,7 +427,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "7e7ef3a9635a7434d087ae64843d0b32e9a7b59a4f59abbe11c3cc3f186f93e5"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -439,7 +439,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "16824a5201dae91328feeeaba62fc78a5791062d5b2adddfb0d27d89cbf87aeb"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -451,7 +451,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "a64bd284177769f19504ab5b9ef55b49210e9d79aaaff32472b3f82e64c3e2b5"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv7l-linux-musleabihf-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv7l-linux-musleabihf-cxx03-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -463,7 +463,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "bab7d8e9c01860a7afb16c989b9ff224038adeabf1fd1a283f2115a98d4053d7"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.armv7l-linux-musleabihf-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.armv7l-linux-musleabihf-cxx11-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -474,7 +474,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "4997cd802ba0897a6d61c15b3fd433c82de7195af2e5ac18cbf61545c3750f13"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.i686-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.i686-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -485,7 +485,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "14fbcb3c4d37e7f9ccedb0ca8142c48466f32bac10813ef0c13f8a9d98bf0049"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.i686-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.i686-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -496,7 +496,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "85afee59cfd117417c72ae66bdc4b453bdadb72ee3047cc9dad8374166990474"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.i686-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.i686-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -507,7 +507,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "979cb5d54126e9e49740c8f1f4248f54be5a174b74c97a7682f1b1ff9b865593"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.i686-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.i686-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -517,7 +517,7 @@ os = "windows"
 
     [[libclangex.download]]
     sha256 = "84bbd36f0b71f7778714486b790905390710052b67a3633746c7ed97f6abfe79"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.i686-w64-mingw32-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.i686-w64-mingw32-cxx03-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -527,7 +527,7 @@ os = "windows"
 
     [[libclangex.download]]
     sha256 = "4cc7f28f36102dc44bc86f683476f3e40098bd4cd235918ab3303a65b7714580"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.i686-w64-mingw32-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.i686-w64-mingw32-cxx11-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -538,7 +538,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "4ce274b1839a3ccf32d7affa9c902ae863e37adafda61dbaa101512cb525a59e"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -549,7 +549,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "fc8b063597ef8d68c891af86491e6b2fc8d0779f1f5c2f14adf8e93e56a82a7a"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 git-tree-sha1 = "61bf3f5e391984383d8d44027df781eb8196ab70"
@@ -558,7 +558,7 @@ os = "macos"
 
     [[libclangex.download]]
     sha256 = "2c8d335dca3e2a30d9abff37f1a867529f89e63a7c8449387d17c8bef94ecc74"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -569,7 +569,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "0d0011398d4857ddcf345699d1a30f0e3955577615d39d760c34842cdd843fe4"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -580,7 +580,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "512b6cdfd6507dfbc78c169b07594bd2e1ea6d2c21d8113337b0df50a3dff682"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -591,7 +591,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "8a826079dccc0a496346eb39780b80b42aca3b1eed1b1551f2b5d857e20bedd8"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -602,7 +602,7 @@ os = "linux"
 
     [[libclangex.download]]
     sha256 = "ebc9bd01597c22c12a5cd1bea05b57357b8d7474a7ecc484eb7b34c2a9d61eb0"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 git-tree-sha1 = "8e9f986f938bcc5c63d49ec54a8b023383979b8c"
@@ -611,7 +611,7 @@ os = "freebsd"
 
     [[libclangex.download]]
     sha256 = "f1959b0a06b57428f6b2e43012be2e06e0b782be80c1ce08a6428d109b1c72da"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-unknown-freebsd-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-unknown-freebsd-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -621,7 +621,7 @@ os = "windows"
 
     [[libclangex.download]]
     sha256 = "72a5d044989548bf3a48e02144852abc1adee917d0a3e266558f79cdaa40807d"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-w64-mingw32-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-w64-mingw32-cxx03-julia_version+1.8.0.tar.gz"
 [[libclangex]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -631,4 +631,4 @@ os = "windows"
 
     [[libclangex.download]]
     sha256 = "d4aac04acc6d2ed8880d9ac1754b94d32d28a06dd8c81cf27af56584fa778b36"
-    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+0/libclangex.v0.1.6.x86_64-w64-mingw32-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libclangex_jll.jl/releases/download/libclangex-v0.1.6+1/libclangex.v0.1.6.x86_64-w64-mingw32-cxx11-julia_version+1.8.0.tar.gz"
